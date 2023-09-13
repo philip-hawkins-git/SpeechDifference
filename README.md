@@ -2,7 +2,7 @@
 
 # Speech Difference
 
-<p><a href="[[https://colab.research.google.com/drive/1YAvRb4GjpQTwq0t2UNq1XbvucBepVnz9?usp=sharing](https://colab.research.google.com/drive/1jGK8crepuDS696iSmLaQ3FMU9XqVJJri?usp=sharing)](https://colab.research.google.com/drive/1-P7GOuFrQIMC6IH0jcZszofZjHF35OZl?usp=sharing)"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a></p>
+<p><a href="https://colab.research.google.com/drive/1-P7GOuFrQIMC6IH0jcZszofZjHF35OZl?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a></p>
 
 Speech Difference is a user-friendly transcription comparison tool that works with a number of media files (including mp3, wav, and mp4), and can be used from either a path, a url, or even a Youtube link!
 
